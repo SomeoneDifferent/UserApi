@@ -1,0 +1,9 @@
+C:\Users\Someo\Desktop\UserApi\UserApi\bin\Debug\netcoreapp1.1\UserApi.deps.json
+C:\Users\Someo\Desktop\UserApi\UserApi\bin\Debug\netcoreapp1.1\UserApi.runtimeconfig.json
+C:\Users\Someo\Desktop\UserApi\UserApi\bin\Debug\netcoreapp1.1\UserApi.runtimeconfig.dev.json
+C:\Users\Someo\Desktop\UserApi\UserApi\bin\Debug\netcoreapp1.1\UserApi.dll
+C:\Users\Someo\Desktop\UserApi\UserApi\obj\Debug\netcoreapp1.1\UserApi.AssemblyInfo.cs
+C:\Users\Someo\Desktop\UserApi\UserApi\bin\Debug\netcoreapp1.1\UserApi.pdb
+C:\Users\Someo\Desktop\UserApi\UserApi\obj\Debug\netcoreapp1.1\UserApi.csprojResolveAssemblyReference.cache
+C:\Users\Someo\Desktop\UserApi\UserApi\obj\Debug\netcoreapp1.1\UserApi.dll
+C:\Users\Someo\Desktop\UserApi\UserApi\obj\Debug\netcoreapp1.1\UserApi.pdb
